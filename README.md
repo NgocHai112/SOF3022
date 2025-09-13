@@ -43,10 +43,17 @@ Lab2: http://localhost:8080/lab2
 (Tương tự cho các bài lab và asm còn lại)
 ....
 🛠️ Công nghệ sử dụng
+
 Java 21
+
 Spring Boot 3
+
 Maven
+
 Thymeleaf
+
 Bootstrap 5
+
 IntelliJ IDEA 2025.1.3
+
 GitHub
