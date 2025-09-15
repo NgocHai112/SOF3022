@@ -39,7 +39,10 @@ Mục tiêu là giúp sinh viên làm quen với **Spring Boot**, **Thymeleaf**,
 3. Chạy file Application.java trong từng Lab (Spring Boot sẽ tự khởi động Tomcat embedded).
 4. Mở trình duyệt:
 Lab1: http://localhost:8080/lab1
+
 Lab2: http://localhost:8080/lab2
+
+Lab3: http://localhost:8080/lab3
 (Tương tự cho các bài lab và asm còn lại)
 
 ....
