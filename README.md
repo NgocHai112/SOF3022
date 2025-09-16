@@ -25,6 +25,7 @@ Mục tiêu là giúp sinh viên làm quen với **Spring Boot**, **Thymeleaf**,
 - Biết cách dùng Thymeleaf hiển thị dữ liệu.
 - Thực hành các control HTML (SelectBox, Radio, Table).
 - Kết hợp Bootstrap để giao diện đẹp và dễ nhìn.
+
 👉 **Mục tiêu:** Ứng dụng Thymeleaf và Bootstrap để xây dựng giao diện.
 
 ### 🔹 Assignment (ASM)
